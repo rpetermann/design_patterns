@@ -1,0 +1,12 @@
+{
+    "name": "rafaelpetermann/patterns",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Test\\": "tests/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
